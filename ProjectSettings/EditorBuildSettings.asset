@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 18db925942403334a965461165799675
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 146cd32ef0958334d92c2809b5513e69
+  - enabled: 1
+    path: Assets/Scenes/SignupScene.unity
+    guid: f3c76f5f3682d6e43bd243fdd2573863
+  - enabled: 1
+    path: Assets/Scenes/ForgotpasswordScene.unity
+    guid: 45bae29edcef3c44683da0768d8b0c82
+  - enabled: 0
+    path: Assets/Scenes/Aboutscene.unity
+    guid: 1595701bb04739944bad68f1226ff76a
+  - enabled: 0
+    path: Assets/Scenes/AIGameScene.unity
+    guid: f3f76b0c71cd72144a39cd1847140305
+  - enabled: 0
+    path: Assets/Scenes/ComingSoon.unity
+    guid: b626f5cdc2d7eda43a884cc79f60ba57
+  - enabled: 0
+    path: Assets/Scenes/FeedbackScene.unity
+    guid: addcd0e03ca55f446b025a61b21891df
+  - enabled: 0
+    path: Assets/Scenes/HelpScene.unity
+    guid: 77134a1a95b5d4e4eb8cc686421d8489
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: eefe868536f95be468e4b0e11a3e2b46
+  - enabled: 0
+    path: Assets/Scenes/AIPlayPrepareScene.unity
+    guid: 050c3964f1fddb940b510340398c50ac
+  - enabled: 0
+    path: Assets/Scenes/OnlineGamePrepareScene.unity
+    guid: 4dcaab1066187734aa5436ac9f23b6a9
+  - enabled: 0
+    path: Assets/Scenes/OnlineGameScene.unity
+    guid: 4136f109d002beb4c9ba7a3ff29725bc
+  - enabled: 0
+    path: Assets/Scenes/PrivacyScene.unity
+    guid: ad364f6e7e2fb4a4cba96a25b279b65e
+  - enabled: 0
+    path: Assets/Scenes/ProfileScene.unity
+    guid: 783c38605e697ca4b8725a4276f50261
+  - enabled: 0
+    path: Assets/Scenes/Render View.unity
+    guid: bda8a768f21c0bd46b0fec3c525c84e1
+  - enabled: 0
+    path: Assets/Scenes/SettingScene.unity
+    guid: 26be7842f44c0e94ca160c95c48371dc
+  - enabled: 0
+    path: Assets/Scenes/TermScene.unity
+    guid: 4b45c63b6725ba7429a676fa2c4c7163
+  - enabled: 1
+    path: Assets/Scenes/TwoPlayerGameScene.unity
+    guid: 0411ac3500c938949bae9305a89836c6
+  - enabled: 1
+    path: Assets/Scenes/TwoPlayerPrepareScene.unity
+    guid: c8d2e0a21286f2e48a630ea9297b03b9
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f5be275e269f8da48803b49cafdfcc40,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 5e0f0be8e4d20d94ba976a5d1bb3dc27, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: cd0398feb0ee5e04a908c7aa55bdc80f, type: 2}
+  m_UseUCBPForAssetBundles: 0

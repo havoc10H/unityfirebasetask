@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.Utilities.csproj": {}
+  },
+  "projects": {
+    "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj",
+        "projectName": "PhotonRealtime",
+        "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj",
+        "packagesPath": "C:\\Users\\~A.TO.Z~\\.nuget\\packages\\",
+        "outputPath": "f:\\Projects\\Unity\\chess-face\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\~A.TO.Z~\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.csproj",
+        "projectName": "PhotonUnityNetworking",
+        "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.csproj",
+        "packagesPath": "C:\\Users\\~A.TO.Z~\\.nuget\\packages\\",
+        "outputPath": "f:\\Projects\\Unity\\chess-face\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\~A.TO.Z~\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj": {
+                "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.Utilities.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities",
+        "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.Utilities.csproj",
+        "packagesPath": "C:\\Users\\~A.TO.Z~\\.nuget\\packages\\",
+        "outputPath": "f:\\Projects\\Unity\\chess-face\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\~A.TO.Z~\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj": {
+                "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonRealtime.csproj"
+              },
+              "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.csproj": {
+                "projectPath": "f:\\Projects\\Unity\\chess-face\\PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

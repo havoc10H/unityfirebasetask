@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">450329661739</string>
+  <string name="google_storage_bucket" translatable="false">chessface3d-8da3b.appspot.com</string>
+  <string name="project_id" translatable="false">chessface3d-8da3b</string>
+  <string name="google_api_key" translatable="false">AIzaSyCyIBQiaKWCy9jmTieGHpmZfJGwj_6E61g</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyIBQiaKWCy9jmTieGHpmZfJGwj_6E61g</string>
+  <string name="google_app_id" translatable="false">1:450329661739:android:f40719de3088607481f56e</string>
+  <string name="default_android_client_id" translatable="false">450329661739-jsoc8rg2ptadgpfnss49ad09c503jt30.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">450329661739-dmp06qjsm9k04u4ti2q6mistd5qjvc3l.apps.googleusercontent.com</string>
+</resources>

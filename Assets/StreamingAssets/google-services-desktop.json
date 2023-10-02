@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450329661739",
+    "project_id": "chessface3d-8da3b",
+    "storage_bucket": "chessface3d-8da3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450329661739:android:f40719de3088607481f56e",
+        "android_client_info": {
+          "package_name": "com.Exiliensoft.chessface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450329661739-jsoc8rg2ptadgpfnss49ad09c503jt30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Exiliensoft.chessface",
+            "certificate_hash": "ffd8c893a77f49f7c9515bd7affd058da34a9cf6"
+          }
+        },
+        {
+          "client_id": "450329661739-dmp06qjsm9k04u4ti2q6mistd5qjvc3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIBQiaKWCy9jmTieGHpmZfJGwj_6E61g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450329661739-4mmep7g5ououc4c5ne7vdv87rl9f378s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
